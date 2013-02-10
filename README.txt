@@ -17,3 +17,6 @@ and the same for your height, height / 20 (or the number of rows you want)
 
 this shall be fixed in initial function.
 vertical (20), horizontal (12), and gridsize(30)
+
+Try it out:
+http://www.student.bth.se/~haaf10/dv1441/tetrisv2/demo/ (2013-02-10)
